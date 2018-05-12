@@ -1,0 +1,33 @@
+_repo: The-Influence-of-India-and-Persia-on-the-Poetry-of-Germany_17928
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Remy, Arthur F. J.
+    birthdate: 1871
+    deathdate: 1954
+    gutenberg_agent_id: '7706'
+    url: http://www.gutenberg.org/2009/agents/7706
+description: Columbia University series of Germanic studies, vol. I, no. IV
+gutenberg_bookshelf:
+- India
+- Germany
+gutenberg_issued: '2006-03-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17928'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German literature -- History and criticism'
+- !lcsh 'Comparative literature -- Sanskrit and German'
+- !lcsh 'Comparative literature -- Persian and German'
+- !lcsh 'Comparative literature -- German and Sanskrit'
+- !lcsh 'Comparative literature -- German and Persian'
+- !lcc 'PT'
+title: The Influence of India and Persia on the Poetry of Germany
+url: http://www.gutenberg.org/ebooks/17928
