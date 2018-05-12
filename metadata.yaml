@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '7706'
     url: http://www.gutenberg.org/2009/agents/7706
 description: Columbia University series of Germanic studies, vol. I, no. IV
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17928#The-Influence-of-India-and-Persia-on-the-Poetry-of-Germany
 gutenberg_bookshelf:
 - India
 - Germany
